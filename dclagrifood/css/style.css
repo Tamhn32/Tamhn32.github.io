@@ -73,7 +73,7 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url('/San_Project/image/a1.png')no-repeat right ;
+    background: url('/image/a1.png')no-repeat right ;
     opacity: 1;
     height: 100vh;
     font-family: 'Ubuntu', sans-serif;
