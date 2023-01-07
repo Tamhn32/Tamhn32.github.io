@@ -73,13 +73,35 @@ html{
 /* home section styling */
 .home{
     display: flex;
-    background: url('/image/san1.jpg')no-repeat right ;
+    /* //background: url('/image/a1.png')no-repeat right ; */
     opacity: 1;
     height: 100vh;
     font-family: 'Ubuntu', sans-serif;
     min-height: 500px;
 }
 
+.home .home-content .right img
+{
+    height: 710px;
+    width: 750px;
+    margin: auto;
+    float: right; 
+    
+}
+
+.home .home-content .right{
+    
+    width: 213%;
+    
+}
+
+.home .home-content .left{
+    
+    position: relative;
+    margin-left: -3px;
+    top: 210px;
+    
+}
 
 .home .max-width
 {
